@@ -5,3 +5,13 @@
 * {
     font-family: 'Gentium Plus', serif;
 }
+
+.banner-content{
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url("https://www.w3schools.com/w3images/hamburger.jpg");
+    background-position: center;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    /* height: 40vh; */
+}
